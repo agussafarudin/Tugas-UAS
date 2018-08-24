@@ -1,5 +1,13 @@
 # Android_mysql_volley
 
+Dalam sebuah aplikasi android (mobile application) memerlukan pola atau alur untuk menggambarkan cara sebuah aplikasi android itu bejalan. Pada kesempatan ini saya akan membahas pola pada aplikasi android saya yaitu “Tugas UAS”. Berikut adalah pola atau alur dari program yang saya buat :
+
+Dari alur diatas isi biodata hanya bisa diisi ketika pengguna sudah masuk. Hal lain yang bisa kita ketahui bahwa aplikasi yang saya buat memiliki batas dalam hal view atau melihat data, karena data hanya bisa dilihat untuk pengguna yang sudah masuk.
+
+Demikian deskripsi aplikasi yang saya buat, untuk lebih jelasnya bisa mencoba aplikasinya. Apabila ada kritik dan saran demi berkembangnya aplikasi ini, saya siap menerima dengan baik hati.
+
+Salam
+
 Assalamu'alaikum wr wb
 
 Volley Library merupakan merupakan produk yang diperkenalkan oleh Google untuk mempermudah pertukaran data tanpa harus membuat deretan kode yang sangat panjang. Secara default volley menggunakan metode singkronisasi jadi anda tidak perlu membuat sebuah method atau fungsi yang menggunakan class asynctask.
